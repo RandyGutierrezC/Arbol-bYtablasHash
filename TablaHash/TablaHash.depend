@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733154303 source:c:\users\randy\onedrive - universidad de sonsonate\escritorio\programacion 3\arbol-b y tablas hash\arbol-bytablashash\tablahash\main.cpp
+	<iostream>
+	"Hash.h"
+
+1733154577 c:\users\randy\onedrive - universidad de sonsonate\escritorio\programacion 3\arbol-b y tablas hash\arbol-bytablashash\tablahash\hash.h
+	<vector>
+	<list>
+	<string>
+	<functional>
+	<iostream>
+
