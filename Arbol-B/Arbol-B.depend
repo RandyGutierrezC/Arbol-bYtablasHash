@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1732995854 source:c:\users\randy\onedrive - universidad de sonsonate\escritorio\programacion 3\arbol-b\main.cpp
+	<iostream>
+	"arbol-b.h"
+
+1732995986 c:\users\randy\onedrive - universidad de sonsonate\escritorio\programacion 3\arbol-b\arbol-b.h
+	"Nodo.h"
+
+1732995912 c:\users\randy\onedrive - universidad de sonsonate\escritorio\programacion 3\arbol-b\nodo.h
+	<iostream>
+	<vector>
+
